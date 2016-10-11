@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_btn">TRUE</string>
+    <string name="false_btn">FALSE</string>
+    <string name="incorrent_toast">Incorrent</string>
+    <string name="corrent_toast">Corrent</string>
+    <string name="next">NEXT</string>
+    <string name="question_shanxi">山西的省会是太原</string>
+    <string name="question_liaoning">辽宁的省会沈阳</string>
+    <string name="question_shan">山西省内的山不是太行山</string>
+    <string name="question_water">流过山西的河流不是黄河</string>
+
+</resources>
